@@ -86,6 +86,12 @@ Execute the main script:
 python train.py
 python main.py
 ```
+or  
+
+``` bash
+py train.py
+py main.py
+```
 
 Expected workflow:
 
